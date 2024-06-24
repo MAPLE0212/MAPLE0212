@@ -1,4 +1,4 @@
--  B1 金沢大学融合学域スマート創成科学類(2023.04~)
+-  金沢大学融合学域スマート創成科学類(2023.04~)
 -  from Fukuoka
   via Kagoshima, Nagasaki
 - 〇〇×digital
