@@ -1,6 +1,4 @@
 -  金沢大学融合学域スマート創成科学類(2023.04~)
--  from Fukuoka
-  via Kagoshima, Nagasaki
 - 金沢IT部活メンター、アカデミーベンチャー参加メンバー
   
 
