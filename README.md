@@ -1,5 +1,6 @@
 -  金沢大学融合学域スマート創成科学類(2023.04~)
 - 金沢IT部活メンター、アカデミーベンチャー参加メンバー
+- ifDL
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maple0212&theme=gruvbox)
